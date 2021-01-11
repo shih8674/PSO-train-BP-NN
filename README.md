@@ -1,5 +1,5 @@
 # PSO-train-BP-NN
-this project use PSO to train the single layer NN structure
+This project use PSO to train the single layer NN structure
 
 If you only want to see the training process and result, 'improved_PSO_train_NN.py' can run directly.
 
