@@ -16,8 +16,9 @@ The data is air quality index download from Environmental Protection Administrat
 'AQI_label.py', 'only_6AQI.py', 'space_AQI_label.py',and 'origin_6AQI_label.py' is the preprocessing of data.
 
 The process divided the data into three kinds.
-  1.Predict the AQI at different times in the same place.
-  2.Predict the AQI at different places in the same time.
-  3.Predict AQI from 6 kind of air quality values.
+
+1.Predict the AQI at different times in the same place.
+2.Predict the AQI at different places in the same time.
+3.Predict AQI from 6 kind of air quality values.
   
   
