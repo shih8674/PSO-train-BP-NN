@@ -21,6 +21,6 @@ The process divided the data into three kinds.
 
 2.Predict the AQI at different places in the same time.
 
-3.Predict AQI from 6 kind of air quality values.
+3.Predict AQI from 6 kinds of air quality values.
   
   
