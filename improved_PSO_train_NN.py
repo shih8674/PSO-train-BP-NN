@@ -216,9 +216,9 @@ def iterator(wmax, wmin, c1max, c1min, c2max, c2min, p, dim, iteration, X, V, pb
         t_end = time.time()
         duration = t_end - t_start
         val_error = fitfunction(gbest, val_x, val_y, input_num, hidden_num, output_num)
-        test_error = fitfunction(gbest, test_x, test_y, input_layer_kernel, hidden_layer_kernel, output_layer_kernel)
+
         
-        print('epoch_num: '+ str(tt) + ', gbest: ', gbest_fit, ', cost time：', duration, 'sec ,val_test mape: ', val_error, ' ,test mape: ', test_error)
+        print('epoch_num: '+ str(tt) + ', gbest: ', gbest_fit, ', cost time：', duration, 'sec ,val_test mape: ', val_error)
 
        
 
