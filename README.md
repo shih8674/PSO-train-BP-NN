@@ -18,7 +18,9 @@ The data is air quality index download from Environmental Protection Administrat
 The process divided the data into three kinds.
 
 1.Predict the AQI at different times in the same place.
+
 2.Predict the AQI at different places in the same time.
+
 3.Predict AQI from 6 kind of air quality values.
   
   
