@@ -1,5 +1,5 @@
 # PSO-train-BP-NN
-This project use PSO(Particle Swarm Optimization) to train the single layer NN structure.
+This project use PSO (Particle Swarm Optimization) to train the single layer NN structure.
 
 If you only want to see the training process and result, 'improved_PSO_train_NN.py' can run directly.
 
